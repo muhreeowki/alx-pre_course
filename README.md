@@ -1,1 +1,2 @@
-My first readme
+# ALX 
+This is my first readme.
